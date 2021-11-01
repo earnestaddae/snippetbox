@@ -39,3 +39,7 @@ Exploring an alternative for developing web application with Go
 - Change database store name, in `main.go`
 - Run `go run ./cm/web`
 - Visit `https:localhost:4000`
+
+### Project Homepage
+
+![Snippetbox](https://github.com/earnestaddae/snippetbox/blob/main/snippetbox.png)
