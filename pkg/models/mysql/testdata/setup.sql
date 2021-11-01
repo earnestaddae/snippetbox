@@ -20,5 +20,5 @@ INSERT INTO users (name, email, hashed_password, created) VALUES (
   'Alice Jones',
   'alice@wonderland.com', 
   '$2a$12$NuTjWXm3KKntReFwyBVHyuf/to.HEwTy.eS206TNfkGfr6HzGJSWG', 
-  '2021-11-17 17:25:22'
+  '2018-12-23 17:25:22'
 );
